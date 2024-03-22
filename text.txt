@@ -1,0 +1,8 @@
+Useful Variables
+1. Concentration (Conc)
+
+2. Fmax (Fm)
+3. Sc
+4. df1(xms)
+5. df2(xp1)
+6  -df2(xp2)
